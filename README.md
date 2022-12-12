@@ -3,6 +3,14 @@
 A program that allows user to create their own agent and enables them to view, delete and update the way they like.
 # UML Diagram:
 ![Uml Diagram](https://user-images.githubusercontent.com/118718707/206983379-5d769419-4dd4-49f8-92f1-cd4a90adaede.jpg)
+# Self Assessment:
+Code Reusability - 4/4
+Maintainability - 4/4
+Scalability - 4/4
+Execution - 4/4
+Originality - 4/4
+Overall Impression - 4/4
+Total = 24/24
 # Code Screenshot
 ![pycode](https://user-images.githubusercontent.com/114888246/206983048-6ed61820-9d63-457b-99d7-7b2f03cae95a.png)
 # Code Output
