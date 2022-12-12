@@ -17,13 +17,13 @@ def create():
     a_name = input("What is your Agents Name? : ")
     a_skills = input("What Skill do you like to have your Agent? : ")
     a_role = input("What is your Agents Role? : ")
-    a_weapon = input("What is your agents weapon? : ")
+    a_weapon = input("What is your Agents weapon? : ")
     
     name.append(a_name)
     skills.append(a_skills)
     role.append(a_role)
     weapon.append(a_weapon)
-    print("\nInput SuccessFully!")
+    print("\nNew Agent Added SuccessFully!")
     
 def view():
     if len(name) == 0:
@@ -42,7 +42,7 @@ def delete():
         del skills[index]
         del role[index]
         del weapon[index]
-        print("\nSuccessfully Deleted!")
+        print("\nAgent Successfully Deleted!")
 
 def update():
     if len(name) == 0:
@@ -74,7 +74,7 @@ while option != 5:
         update()
         
     elif option == 5:
-        exit
+        exit()
         
     else:
         print("Invalid Input!")
