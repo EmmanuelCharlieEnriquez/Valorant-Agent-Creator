@@ -11,6 +11,7 @@ Execution - 4/4<li>
 Originality - 4/4<li>
 Overall Impression - 4/4<li>
 Total = 24/24
+  
 # Code Screenshot
 ![pycode](https://user-images.githubusercontent.com/114888246/206983048-6ed61820-9d63-457b-99d7-7b2f03cae95a.png)
 # Code Output
